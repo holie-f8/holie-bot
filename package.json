@@ -1,12 +1,19 @@
 {
   "name": "holie-bot",
   "version": "1.0.0",
-  "description": "HOLIE~~~BOT",
+  "description": "HOLIE~~~BOT — Futuristic AI Assistant for Android",
   "main": "www/index.html",
   "scripts": {
+    "build": "echo 'No build step required; www/ is static.'",
     "cap": "npx cap"
   },
+  "dependencies": {
+    "@capacitor/android": "5.9.2",
+    "@capacitor/core": "5.9.2"
+  },
   "devDependencies": {
-    "@capacitor/cli": "5.9.0"
-  }
+    "@capacitor/cli": "5.9.2"
+  },
+  "author": "HOLIE~~~BOT",
+  "license": "MIT"
 }
