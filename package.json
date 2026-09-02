@@ -1,0 +1,12 @@
+{
+  "name": "holie-bot",
+  "version": "1.0.0",
+  "description": "HOLIE~~~BOT",
+  "main": "www/index.html",
+  "scripts": {
+    "cap": "npx cap"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "5.9.0"
+  }
+}
