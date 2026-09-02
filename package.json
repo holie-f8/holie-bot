@@ -8,11 +8,11 @@
     "cap": "npx cap"
   },
   "dependencies": {
-    "@capacitor/android": "5.9.2",
-    "@capacitor/core": "5.9.2"
+    "@capacitor/android": "latest",
+    "@capacitor/core": "latest"
   },
   "devDependencies": {
-    "@capacitor/cli": "5.9.2"
+    "@capacitor/cli": "latest"
   },
   "author": "HOLIE~~~BOT",
   "license": "MIT"

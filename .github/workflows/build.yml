@@ -22,7 +22,7 @@ jobs:
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
 
-      - name: Install Node dependencies
+      - name: Install dependencies
         run: npm install
 
       - name: Add Android platform
