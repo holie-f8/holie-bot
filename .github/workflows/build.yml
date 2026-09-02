@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Capacitor
         run: |
-          npm install -g @capacitor/cli@5.9.1
+          npm install -g @capacitor/cli@5.9.0
           npm install
 
       - name: Add Android platform
